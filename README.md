@@ -22,4 +22,4 @@ Below is a list of third-party turtorials used to help faclitiate this project. 
 
 ## License
 I have included a liscense for this document: https://choosealicense.com/licenses/gpl-3.0/
-![alt text]().assets/LICENSE (1).txt)
+![alt text](./assets/images/license.png)
