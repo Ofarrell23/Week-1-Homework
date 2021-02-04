@@ -21,5 +21,5 @@ Below is a list of third-party turtorials used to help faclitiate this project. 
 * [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
 
 ## License
-I have included a liscense for this document:
+I have included a liscense for this document: https://choosealicense.com/licenses/gpl-3.0/
 ![alt text]().assets/LICENSE (1).txt)
