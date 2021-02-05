@@ -9,7 +9,7 @@
 * [License](#license)
 
 ## Overview
-For this project we were tasked to create a repository in Github and be able to push our file directory from our main source to that repositiory. The files to be uploaded included a README. MD, Liscense.txt, assets, and Index html. We were also tasked to correct any broken links in the provided html, and reformat the the code to have correct syntax. My motivation for this project was to strengthen my Github experience by better familiarize myself with using terminal to add, commit, and push data to Github. In addition to the Github experience, I also gained better knowlege of how information should be displayed on a html and CSS page.
+For this project, we were tasked to create a repository in Github and be able to push our file directory from our main source to that repository. The files to be uploaded included a README. MD, Liscense.txt, assets, and Index HTML. We were also tasked to correct any broken links in the provided HTML, and reformat the code to have the correct syntax. My motivation for this project was to strengthen my Github experience by better familiarize myself with using the terminal to add, commit, and push data to Github. In addition to the Github experience, I also gained better knowledge of how code and information should be displayed on a HTML and CSS pages.
 
 ## Installation
 Steps to install and run Github.
@@ -21,21 +21,21 @@ Steps to install and run Github.
 
 ![alt.text](./assets/images/copylink.png)
 
-5. While using the terminal type CD (change directory)to enter the correct file folder. In my case it was cd Week-1-Homework 
+5. While using the terminal type CD (change directory) to enter the correct file folder. In my case it was cd Week-1-Homework 
 
 ![alt.text](./assets/images/Step5.png)
 
 6. In the terminal type git clone _____ and paste the previous https: copied from the Github repository recently created.
 
-7. Go the the folder created in the previous step, you should see a new README.MD folder at a git folder.
+7. Go the the folder created in the previous step, and you should see a new README.MD folder and a git folder.
 
-8. Create a HTML folder in the the current folder you recently created which contains the README.MD
+8. Create an HTML folder in the same folder tht contains the README.MD
 
 9. Return back to the terminal, text (git add .) then (get commit -m "message") then (git push) 
 
 ![alt.text](./assets/images/GitCommands.png)
 
-10. Return to Github and you should see the new html folder located in your repository.
+10. Return to Github and you should see the new HTML folder located in your repository.
 
 
 ## Usage 
