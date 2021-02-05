@@ -1,12 +1,17 @@
 # Week-1-Homework
 
 ## Overview
-
-More and more users are browsing the web from a mobile device, which has changed how developers think about layout and design. Advanced CSS features like media queries and flexbox make it easier to accommodate multiple screen sizes and to build apps with a mobile-first mindset. Similarly, website design has evolved to include many niceties that users now take for granted, such as animated hover effects, rounded corners, and shadows. In the old days of the web, these tricks would have required some complex workarounds or even JavaScript, but newer CSS properties have simplified their implementation.
-
-In this unit, you'll learn how to build web apps that incorporate both of these features: responsive web design and advanced CSS. These skills are a must for modern web developers, and learning them will enable you to create attractive, engaging, and adaptive websites. 
+For this project we were tasked to create a repository in Github and be able to push our file directory from our main source to that repositiory. The files to be uploaded included a README. MD, Liscense.txt, assets, and Index html. We were also tasked to correct any broken links in the Index.html, and reformat the the code to have correct syntax. My motivation for this project was to strenghten my Github experience by better familarizing myseft with using termainal to add, commit, and push data to Github. In addition to the Github experience, I also gained better knowlege of how information should be diplayed on a html and CSS.
 
 ## Installation
+Steps to install and run Github process.
+
+Step #1 Create a Github account
+Step #2 Within Github.com creat a new Respository
+Step #3 Once your new repository is created make a name for you reposistory and click the public buttn, and initializ this repository with README
+Step #4 Copy the link associated with the recently created respository ![alt.text](.assests/images/copyink.png)
+
+
 
 ## Usage 
 
@@ -20,6 +25,3 @@ Below is a list of third-party turtorials used to help faclitiate this project. 
 * [Credits] (https://www.w3schools.com/tags/att_img_alt.asp)
 * [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
 
-## License
-I have included a liscense for this document: https://choosealicense.com/licenses/gpl-3.0/
-![alt text](./assets/images/license.png)
