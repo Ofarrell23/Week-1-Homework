@@ -25,7 +25,7 @@ Steps to install and run Github process.
 
 9. Return back to the terminal, text (git add .) then (get commit -m "message") then (git push) 
 
-10. Return to Github and you should see the new html folder located in you repository.
+10. Return to Github and you should see the new html folder located in your repository.
 
 
 ## Usage 
