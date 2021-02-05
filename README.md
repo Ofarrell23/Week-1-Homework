@@ -15,8 +15,11 @@ Steps to install and run Github process.
 
 5. While using the terminal use CD to enter the correct file folder. In my case it was cd Week-1-Homework 
 
-![alt.text](./assets/images/Step5)
+![alt.text](./assets/images/Step5.png)
 
+6. In the terminal type git clone _____ and paste the previous https: copied from the Github repository recently created.
+
+7. Now if you go the the folder created in the previous step, you should see a new README.MD folder at a git folder.
 
 ## Usage 
 
