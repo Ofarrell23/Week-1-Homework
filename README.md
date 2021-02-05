@@ -53,4 +53,4 @@ Below is a list of third-party tutorials used to help facilitate this project. T
 ## License
 
 [https://choosealicense.com/licenses/gpl-3.0/](https://choosealicense.com/licenses/gpl-3.0/) 
-![alt.text](./assets/images/License.png)
+![alt.text](./LICENSE (1).txt)
