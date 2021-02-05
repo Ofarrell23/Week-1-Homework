@@ -9,8 +9,8 @@ Steps to install and run Github process.
 Step #1 Create a Github account
 Step #2 Within Github.com creat a new Respository
 Step #3 Once your new repository is created make a name for you reposistory and click the public buttn, and initializ this repository with README
-Step #4 Copy the link associated with the recently created respository ![alt.text](.assests/images/copyink.png)
-
+Step #4 Copy the link associated with the recently created respository 
+![alt.text](.assets/images/copyink.png)
 
 
 ## Usage 
