@@ -1,10 +1,18 @@
 # Week-1-Homework
 
+## Table of Contents 
+
+* [Overview](#Overview)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+
 ## Overview
-For this project we were tasked to create a repository in Github and be able to push our file directory from our main source to that repositiory. The files to be uploaded included a README. MD, Liscense.txt, assets, and Index html. We were also tasked to correct any broken links in the Index.html, and reformat the the code to have correct syntax. My motivation for this project was to strengthen my Github experience by better familiarize myself with using terminal to add, commit, and push data to Github. In addition to the Github experience, I also gained better knowlege of how information should be displayed on a html and CSS.
+For this project we were tasked to create a repository in Github and be able to push our file directory from our main source to that repositiory. The files to be uploaded included a README. MD, Liscense.txt, assets, and Index html. We were also tasked to correct any broken links in the provided html, and reformat the the code to have correct syntax. My motivation for this project was to strengthen my Github experience by better familiarize myself with using terminal to add, commit, and push data to Github. In addition to the Github experience, I also gained better knowlege of how information should be displayed on a html and CSS page.
 
 ## Installation
-Steps to install and run Github process.
+Steps to install and run Github.
 
 1. Create a Github account
 2. Within Github.com create a new Repository.
@@ -25,6 +33,8 @@ Steps to install and run Github process.
 
 9. Return back to the terminal, text (git add .) then (get commit -m "message") then (git push) 
 
+![alt.text](./assets/images/GitCommands.png)
+
 10. Return to Github and you should see the new html folder located in your repository.
 
 
@@ -40,3 +50,7 @@ Below is a list of third-party tutorials used to help facilitate this project. T
 * [Credits] (https://www.w3schools.com/tags/att_img_alt.asp)
 * [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
 
+## License
+
+[https://choosealicense.com/licenses/gpl-3.0/](https://choosealicense.com/licenses/gpl-3.0/) 
+[alt.text](./assets/images/License.png)
